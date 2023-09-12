@@ -1,0 +1,7 @@
+{
+  "suggest.noselect": false,
+  "php-cs-fixer.rules": "@PSR12",
+  "php-cs-fixer.enableFormatProvider": true,
+  "php-cs-fixer.config": "/home/dprog/.php-cs-fixer.php",
+  "emmet.includeLanguages": { "vue-html": "html", "jsx": "javascript-react", "javascript": "javascriptreact" }
+}
