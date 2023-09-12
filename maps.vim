@@ -26,6 +26,7 @@ nmap <Leader>gm :G merge
 nmap <Leader>gP :G push<CR>
 nmap <Leader>gp :G pull<CR>
 nmap <Leader>ff :Files<CR>
+nmap <Leader>R :SearchAndReplace
 nmap <Leader>fg :GFiles<CR>
 nmap <Leader>fb :Buffers<CR>
 nmap <Leader>fc :Commits<CR>
@@ -45,6 +46,7 @@ nmap <Leader>vr
 nmap <silent><Leader>i gg=G
 nmap <Leader>m :! mkdir 
 nmap <Leader>t :! touch 
+nmap T :! 
 
 " Visual Keymaps
 vmap <silent><c-c> "+y
