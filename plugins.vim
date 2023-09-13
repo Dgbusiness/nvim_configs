@@ -9,7 +9,7 @@ Plug 'tomasiser/vim-code-dark'
 "Plug 'tiagofumo/vim-nerdtree-syntax-highlight'	" Highlight text with icons of programming languages
 Plug 'lambdalisue/fern.vim' " Tree of files for Vim (better)
 Plug 'lambdalisue/fern-renderer-devicons.vim'           " devicons for Fern
-Plug 'ryanoasis/vim-devicons'	" Devicons for nerdtree
+Plug 'ryanoasis/vim-devicons'	" Devicons for nerdtree and Fern
 Plug 'preservim/nerdcommenter' " Easy way to comment
 Plug 'christoomey/vim-tmux-navigator'	" Navigator between screens
 Plug 'tpope/vim-fugitive' " full git integration 
