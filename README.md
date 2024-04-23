@@ -6,6 +6,7 @@
 - Run `sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'` to install Vim Plug.
 - Run `sudo apt install nodejs && sudo apt install npm`
+- Run `sudo npm install -g n && sudo n lts`
 - Run `sudo npm install --global yarn`
 - Run `sudo apt install python3-pip`
 - Run `sudo apt install python3-pynvim`
